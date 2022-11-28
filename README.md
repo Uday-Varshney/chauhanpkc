@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **KaliLinux**
 
-- 📫 How to reach me **chauhanprashant@live.co.uk**
+- 📫 How to reach me **prashantc277@gmail.com**
 
 - ⚡ Fun fact **Pull is fetch with a merge.**
 
