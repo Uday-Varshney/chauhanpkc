@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="chauhanpkc" />, I'm Prashant Kumar Chauhan</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30" height="30" alt="chauhanpkc" />, I'm Prashant Kumar Chauhan</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chauhanpkc&label=Profile%20views&color=0e75b6&style=flat" alt="chauhanpkc" /> </p>
